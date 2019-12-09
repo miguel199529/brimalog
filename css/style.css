@@ -770,7 +770,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
 }
 
-#pricing .card:after {
+/* #pricing .card:after {
   content: '';
   position: absolute;
   top: 0;
@@ -779,7 +779,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 5px;
   background-color: #1bb1dc;
   transition: 0.5s;
-}
+} */
 
 #pricing .card:hover {
   -webkit-transform: scale(1.05);
