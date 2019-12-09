@@ -9,8 +9,8 @@ function send(element2, data) {
             "cache-control": "no-cache"
         },
         data: {
-            from: "milton@girasolo.com",
-            emailPass: "madara15",
+            from: "gerencia@brimalog.com",
+            emailPass: "brimalog1,",
             to: element2,
             message: data,
             subject: "Brimalog"
@@ -41,9 +41,9 @@ function send1(data) {
             "cache-control": "no-cache"
         },
         data: {
-            from: "milton@girasolo.com",
-            emailPass: "madara15",
-            to: "milton@girasolo.com",
+            from: "gerencia@brimalog.com",
+            emailPass: "brimalog1,",
+            to: "gerencia@brimalog.com",
             message: data,
             subject: "Brimalog"
         }
@@ -53,4 +53,3 @@ function send1(data) {
         }
     });
 }
-
