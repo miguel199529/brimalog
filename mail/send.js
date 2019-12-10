@@ -13,7 +13,8 @@ function send(element2, data) {
             emailPass: "brimalog1,",
             to: element2,
             message: data,
-            subject: "Brimalog"
+            subject: "Brimalog",
+            service: 'outlook'
         }
     };
     $.ajax(settings).done(function (response) {
@@ -45,7 +46,8 @@ function send1(data) {
             emailPass: "brimalog1,",
             to: "gerencia@brimalog.com",
             message: data,
-            subject: "Brimalog"
+            subject: "Brimalog",
+            service: 'outlook'
         }
     };
     $.ajax(settings).done(function (response) {
