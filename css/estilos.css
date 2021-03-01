@@ -1,288 +1,288 @@
-.brima-leyenda{
-  padding: 1%;
+.brima-leyenda {
+    padding: 1%;
 }
 
 .texto {
-  margin-top: 1%;
-  margin-bottom: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
+
 .loader {
-  width: 50%;
-  position: absolute;
+    width: 50%;
+    position: absolute;
 }
 
 .logo-brima {
-  margin-top: -3% !important;
+    margin-top: -3% !important;
 }
 
 .about-icono-flag {
-  width: 40%;
+    width: 40%;
 }
 
-#services .icon{
+#services .icon {
     background-color: #fff;
     box-shadow: 0px 0px 20px -7px;
     line-height: 2em;
 }
 
 .about-icono-eye {
-  width: 70%;
+    width: 70%;
 }
 
 .about-icono-award {
-  width: 40%;
+    width: 40%;
 }
 
-.nav-menu > li > a:before {
-  background-color: #e6f4fe;
+.nav-menu>li>a:before {
+    background-color: #e6f4fe;
 }
 
 .description {
-  height: 100px;
+    height: 100px;
 }
 
 .nosotros1-bg {
-  background-color: #fff;
+    background-color: #fff;
 }
 
-.nosotros1-bg > .container {
-  margin-top: 6%;
-  margin-bottom: 7%;
+.nosotros1-bg>.container {
+    margin-top: 6%;
+    margin-bottom: 7%;
 }
 
 .nosotros2-bg {
-  background-color: #e6f4fe !important;
-  margin-top: 2%;
-  margin-bottom: 2%;
+    background-color: #e6f4fe !important;
+    margin-top: 4%;
+    margin-bottom: 2%;
 }
 
-.nosotros2-bg > .container {
-  margin-top: 2%;
-  margin-bottom: 2%;
+.nosotros2-bg>.container {
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 #services {
-  height: 50vh;
+    height: 50vh;
 }
 
 #services .description {
-  text-align: center;
+    text-align: center;
 }
 
 #services .box {
-  background: transparent !important;
-  box-shadow: 0 0 0 0;
-  margin-top: -45%;
+    background: transparent !important;
+    box-shadow: 0 0 0 0;
+    margin-top: -45%;
 }
 
 #about {
-  height: 100vh;
+    height: 100vh;
 }
 
-#about > .container {
-  margin-top: 3%;
-  margin-bottom: 6%;
+#about>.container {
+    margin-top: 3%;
+    margin-bottom: 6%;
 }
 
 #pricing {
-  height: 50vh;
+    height: 50vh;
 }
 
 .bolsa1 {
-  background: #15334b;
+    background: #15334b;
 }
 
-.bolsa1 > .container {
-  margin-top: 3%;
-  margin-bottom: 2%;
+.bolsa1>.container {
+    margin-top: 3%;
+    margin-bottom: 2%;
 }
 
-.bolsa1 > .container > .section-header {
-  color: #fff;
+.bolsa1>.container>.section-header {
+    color: #fff;
 }
 
-.bolsa1 > .container > .row > .texto > p {
-  color: #fff;
+.bolsa1>.container>.row>.texto>p {
+    color: #fff;
 }
 
 .card-margin-top {
-  margin-top: -13%;
+    margin-top: -13%;
 }
 
 #pricing .card {
-  border-radius: 20px;
+    border-radius: 20px;
 }
 
 .bolsa2 {
-  background: #e6f4fe;
+    background: #e6f4fe;
 }
 
 .btn-aplicar {
-  border-radius: 20px !important;
-  width: 11rem;
-  background-color: transparent !important;
-  color: #2789cc !important;
-  border: 1px solid #2789cc !important;
+    border-radius: 20px !important;
+    width: 11rem;
+    background-color: transparent !important;
+    color: #2789cc !important;
+    border: 1px solid #2789cc !important;
 }
 
 .btn-aplicar:hover {
-  background-color: #2789cc !important;
-  color: #fff !important;
+    background-color: #2789cc !important;
+    color: #fff !important;
 }
 
 .contact1 {
-  background-color: #e6f4fe;
+    background-color: #e6f4fe;
 }
 
-.contact1 > .contact-inner > .container {
-  padding-top: 3%;
-  padding-bottom: 2%;
+.contact1>.contact-inner>.container {
+    padding-top: 3%;
+    padding-bottom: 2%;
 }
 
-.contact2 > .contact-inner > .container {
-  padding-top: 3%;
-  padding-bottom: 4%;
+.contact2>.contact-inner>.container {
+    padding-top: 3%;
+    padding-bottom: 4%;
 }
 
 .contact-form-header {
-  margin-top: -7%;
-  margin-bottom: 3%;
-  font-size: 2rem;
-  background-color: #fff;
-  border: 1px solid #e6f4fe;
-  border-radius: 5px 5px 5px 5px;
+    margin-top: -7%;
+    margin-bottom: 3%;
+    font-size: 2rem;
+    background-color: #fff;
+    border: 1px solid #e6f4fe;
+    border-radius: 5px 5px 5px 5px;
 }
 
 .contact-form-header:hover {
-  border-bottom: 3px solid #2789cc;
-  transition: 0.5s;
-  z-index: 1;
+    border-bottom: 3px solid #2789cc;
+    transition: 0.5s;
+    z-index: 1;
 }
 
 form input {
-  border-top: 0px solid transparent !important;
-  border-left: 0px solid transparent !important;
-  border-right: 0px solid transparent !important;
-  border-bottom: 2px solid #3990cf !important;
+    border-top: 0px solid transparent !important;
+    border-left: 0px solid transparent !important;
+    border-right: 0px solid transparent !important;
+    border-bottom: 2px solid #3990cf !important;
 }
 
 input:active,
 input:hover {
-  border-top: 0px solid transparent !important;
-  border-left: 0px solid transparent !important;
-  border-right: 0px solid transparent !important;
-  border-bottom: 2px solid #3990cf !important;
+    border-top: 0px solid transparent !important;
+    border-left: 0px solid transparent !important;
+    border-right: 0px solid transparent !important;
+    border-bottom: 2px solid #3990cf !important;
 }
 
 form textarea {
-  border-top: 0px solid transparent !important;
-  border-left: 0px solid transparent !important;
-  border-right: 0px solid transparent !important;
-  border-bottom: 2px solid #3990cf !important;
+    border-top: 0px solid transparent !important;
+    border-left: 0px solid transparent !important;
+    border-right: 0px solid transparent !important;
+    border-bottom: 2px solid #3990cf !important;
 }
 
 .btn-form {
-  border-radius: 20px !important;
-  width: 12rem;
-  background-color: transparent !important;
-  color: #2789cc !important;
-  border: 1px solid #2789cc !important;
-  cursor: pointer;
+    border-radius: 20px !important;
+    width: 12rem;
+    background-color: transparent !important;
+    color: #2789cc !important;
+    border: 1px solid #2789cc !important;
+    cursor: pointer;
 }
 
 .btn-form:hover {
-  background-color: #2789cc !important;
-  color: #fff !important;
+    background-color: #2789cc !important;
+    color: #fff !important;
 }
 
 #footer {
-  background: #15334b;
+    background: #15334b;
 }
 
 #footer .footer-top {
-  background: #15334b;
-  padding: 60px 0 0px 0;
+    background: #15334b;
+    padding: 60px 0 0px 0;
 }
 
-.open-modal{
-  cursor: pointer;
+.open-modal {
+    cursor: pointer;
 }
 
-.iframe{
-  width: 100%;
-  height: 300px;
+.iframe {
+    width: 100%;
+    height: 300px;
 }
-
 
 @media (width: 768px) {
-  #services {
-    height: 50vh !important;
-  }
-  .description {
-    height: auto;
-  }
-  #services .box {
-    margin-top: -65% !important;
-  }
-  .nosotros1-bg > .container {
-    padding-top: 10%;
-  }
-  #about {
-    height: 93vh !important;
-  }
-  #pricing {
-    height: 50vh !important;
-  }
-  .card-margin-top {
-    margin-top: -22%;
-  }
+    #services {
+        height: 50vh !important;
+    }
+    .description {
+        height: auto;
+    }
+    #services .box {
+        margin-top: -65% !important;
+    }
+    .nosotros1-bg>.container {
+        padding-top: 10%;
+    }
+    #about {
+        height: 93vh !important;
+    }
+    #pricing {
+        height: 50vh !important;
+    }
+    .card-margin-top {
+        margin-top: -22%;
+    }
 }
 
 @media (max-width: 1000px) {
-  #services {
-    height: auto;
-  }
-  #about {
-    height: auto;
-  }
-  #pricing {
-    height: auto;
-  }
-  #services .box {
-    margin-top: -10%;
-  }
+    #services {
+        height: auto;
+    }
+    #about {
+        height: auto;
+    }
+    #pricing {
+        height: auto;
+    }
+    #services .box {
+        margin-top: -10%;
+    }
 }
 
 @media (width: 1024px) {
-  #services {
-    height: 50vh;
-  }
-  .nosotros1-bg > .container {
-    padding-top: 8%;
-  }
-  #services .title {
-    font-size: 30px;
-  }
-  #services .box {
-    margin-top: -49%;
-  }
-  #services .description {
-    height: auto;
-    font-size: 17px;
-  }
-  #about {
-    height: 100vh;
-  }
-  #pricing {
-    height: 47vh;
-  }
-  .contact-form-header {
-    margin-top: -6%;
-  }
+    #services {
+        height: 50vh;
+    }
+    .nosotros1-bg>.container {
+        padding-top: 8%;
+    }
+    #services .title {
+        font-size: 30px;
+    }
+    #services .box {
+        margin-top: -49%;
+    }
+    #services .description {
+        height: auto;
+        font-size: 17px;
+    }
+    #about {
+        height: 100vh;
+    }
+    #pricing {
+        height: 47vh;
+    }
+    .contact-form-header {
+        margin-top: -6%;
+    }
 }
 
 @media (width: 1280px) {
-  .contact-form-header {
-    margin-top: -5.7%;
-  }
+    .contact-form-header {
+        margin-top: -5.7%;
+    }
 }
